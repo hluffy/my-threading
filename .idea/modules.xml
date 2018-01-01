@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mythreading.iml" filepath="$PROJECT_DIR$/.idea/mythreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonmysql/.idea/pythonmysql.iml" filepath="$PROJECT_DIR$/../pythonmysql/.idea/pythonmysql.iml" />
     </modules>
   </component>
 </project>
